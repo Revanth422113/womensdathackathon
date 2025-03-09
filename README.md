@@ -41,12 +41,12 @@ jupyter notebook
 
 Open and run the notebooks:
 
-Que1_1.ipynb for Parent-Child Conversation Reconstruction
+#### Que1_1.ipynb for Parent-Child Conversation Reconstruction
 
-que2.ipynb for Subreddit-Based Topic Classification
+#### que2.ipynb for Subreddit-Based Topic Classification
 
 
-Usage
+### Usage
 
 To run the models, execute the respective notebooks. The outputs will include:
 
@@ -54,7 +54,7 @@ Reconstructed conversation threads for discourse analysis.
 
 Classified subreddit topics along with visualization.
 
-Contributors
+### Contributors
 
 Revanth Reddy Avuthu
 
